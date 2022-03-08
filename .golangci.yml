@@ -31,7 +31,7 @@ linters-settings:
   gocyclo:
     min-complexity: 15
   goimports:
-    local-prefixes: github.com/x1ah/gena
+    local-prefixes: github.com/gary0707yang/gena
   golint:
     min-confidence: 0
   gomnd:

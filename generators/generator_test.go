@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/x1ah/gena"
+	"github.com/gary0707yang/gena"
 )
 
 func compareOutput(t *testing.T, configPath string) {
